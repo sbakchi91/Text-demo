@@ -16,3 +16,5 @@ git pull origin master - This is used to pull all the changes back to the local 
 git diff - This tells all the changes done but used before staging the files.
 
 got diff filename - If you want to check the changes in a particular file then we have to use this command.
+
+git diff --staged filename - If you want to see the changes after you staged the file.

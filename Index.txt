@@ -3,7 +3,11 @@ git status - This command is used to check the unstaged files that are not yet t
 
 git log - It shows all the changes done by whom and at which date.
 
-git add . - This is used to stage all the changed files.
+git add . - This is used to stage all the new and modified files, without deleted.
+
+git add -A - This stage all the files.
+
+git add -u - stage modified and deleted files without new.
 
 git add filename - to stage the desired file
 

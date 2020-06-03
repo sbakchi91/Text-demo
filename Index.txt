@@ -7,6 +7,8 @@ git add . - This is used to stage all the changed files.
 
 git add filename - to stage the desired file
 
+git commit -m "Message" - This move the file to commit area and now you can push the file to the server.
+
 git push origin master - This is used to push all the changes to the github account.
 
 git pull origin master - This is used to pull all the changes back to the local repository.

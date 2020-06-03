@@ -18,3 +18,5 @@ git diff - This tells all the changes done but used before staging the files.
 got diff filename - If you want to check the changes in a particular file then we have to use this command.
 
 git diff --staged filename - If you want to see the changes after you staged the file.
+
+git checkout . - If the file is saved in local repository with some error this command move the file to its just previous state.

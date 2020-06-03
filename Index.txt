@@ -1,6 +1,8 @@
 This is version four of my text document and added to github account. And I also want to push this back to the local repository.
 git status - This command is used to check the unstaged files that are not yet to commit.
 
+git init - This command is used to initialize the git to the corresponding folder.
+
 git log - It shows all the changes done by whom and at which date.
 
 git add . - This is used to stage all the new and modified files, without deleted.

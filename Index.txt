@@ -28,3 +28,6 @@ git checkout . - If the file is saved in local repository with some error this c
 git reset filename - If you have staged a file and you want to unstaged it.
 
 git checkout filename - Now this command make the recent change remove from the file.
+
+# If you want to download someone repository than copy its SSH link from (clone or download) section and then if you want a folder of repository 
+use (git clone SSH) otherwise if you want only the repository files than use (git clone SSH .)  

@@ -1,1 +1,16 @@
 This is version four of my text document and added to github account. And I also want to push this back to the local repository.
+git status - This command is used to check the unstaged files that are not yet to commit.
+
+git log - It shows all the changes done by whom and at which date.
+
+git add . - This is used to stage all the changed files.
+
+git add filename - to stage the desired file
+
+git push origin master - This is used to push all the changes to the github account.
+
+git pull origin master - This is used to pull all the changes back to the local repository.
+
+git diff - This tells all the changes done but used before staging the files.
+
+got diff filename - If you want to check the changes in a particular file then we have to use this command.
